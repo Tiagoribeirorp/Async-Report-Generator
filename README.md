@@ -1,10 +1,28 @@
-# 🚀 Async Report Generator
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🚀+Async+Report+Generator&color=ff69b4" />
+</p>
 
-Um sistema completo de geração de relatórios assíncronos com arquitetura microservices, desenvolvido com a stack moderna: Node.js, React, MongoDB, Redis, RabbitMQ e Docker.
+<div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); padding: 2rem; border-radius: 15px; border: 2px solid #ff69b4;">
 
-## 📋 Sobre o Projeto
+![Docker](https://img.shields.io/badge/Docker-✓-ff69b4?style=for-the-badge&logo=docker)
+![Node.js](https://img.shields.io/badge/Node.js-✓-ff69b4?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-✓-ff69b4?style=for-the-badge&logo=react)
+![MongoDB](https://img.shields.io/badge/MongoDB-✓-ff69b4?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-✓-ff69b4?style=for-the-badge&logo=redis)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-✓-ff69b4?style=for-the-badge&logo=rabbitmq)
 
-O Async Report Generator permite que usuários solicitem relatórios complexos que são processados em background, proporcionando uma experiência não-bloqueante e eficiente. O sistema utiliza filas de mensagens para orquestrar o processamento e cache para otimizar o desempenho.
+</div>
+
+<br />
+
+<div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); padding: 2rem; border-radius: 15px; border: 1px solid #ff69b4; margin: 1rem 0;">
+
+## 🌸 Sobre o Projeto
+
+Um sistema completo de **geração de relatórios assíncronos** com arquitetura microservices, desenvolvido com stack moderna. Processamento em background, cache inteligente e interface moderna.
+
+</div>
+
 
 ## ✨ Funcionalidades
 
