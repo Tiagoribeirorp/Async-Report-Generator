@@ -1,0 +1,44 @@
+{
+  "reportId": "69026228f54d2b73ab00b3c2",
+  "type": "sales",
+  "parameters": {
+    "dateRange": "2024-01-01 to 2024-12-31"
+  },
+  "generatedAt": "2025-10-29T18:51:25.414Z",
+  "data": {
+    "periodo": "2024-01-01 to 2024-12-31",
+    "totalVendas": 34139.540490272455,
+    "quantidadePedidos": 457,
+    "produtosMaisVendidos": [
+      {
+        "produto": "Produto A",
+        "quantidade": 150,
+        "valor": 7500
+      },
+      {
+        "produto": "Produto B",
+        "quantidade": 120,
+        "valor": 6000
+      },
+      {
+        "produto": "Produto C",
+        "quantidade": 90,
+        "valor": 4500
+      }
+    ],
+    "clientesTop": [
+      {
+        "cliente": "Cliente X",
+        "total": 12000
+      },
+      {
+        "cliente": "Cliente Y",
+        "total": 9800
+      },
+      {
+        "cliente": "Cliente Z",
+        "total": 7600
+      }
+    ]
+  }
+}
